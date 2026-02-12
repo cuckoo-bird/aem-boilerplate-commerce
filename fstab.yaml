@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/cuckoo-bird/aem-boilerplate-commerce/
+    type: markup
